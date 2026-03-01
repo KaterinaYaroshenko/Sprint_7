@@ -44,3 +44,4 @@ build/
 target/
 .mvn/
 allure-results/
+
